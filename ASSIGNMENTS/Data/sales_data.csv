@@ -1,0 +1,13 @@
+product,category,price,quantity,sales,rating,date
+Laptop,Electronics,55000.0,2,110000,4.5,2026-01-01
+Phone,Electronics,25000.0,5,125000,4.2,2026-01-02
+Tablet,Electronics,18000.0,3,54000,,2026-01-03
+Laptop,Electronics,55000.0,1,55000,4.7,2026-01-04
+Headphones,Accessories,2500.0,10,25000,4.1,2026-01-05
+Phone,Electronics,25000.0,4,100000,4.3,2026-01-06
+Tablet,Electronics,18000.0,2,36000,3.9,2026-01-07
+Headphones,Accessories,,8,20000,4.0,2026-01-08
+Laptop,Electronics,55000.0,3,165000,4.8,2026-01-09
+Phone,Electronics,25000.0,6,150000,4.4,2026-01-10
+Keyboard,Accessories,1500.0,7,10500,4.0,2026-01-11
+Mouse,Accessories,900.0,12,10800,4.2,2026-01-12
