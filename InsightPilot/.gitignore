@@ -1,0 +1,25 @@
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Streamlit secrets (for cloud deployment)
+.streamlit/secrets.toml
+
